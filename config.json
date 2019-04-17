@@ -1,16 +1,24 @@
 {
   "aboutMe": {
     "Tutorial": {
-      "name": "教程",
+      "name": "个人项目",
       "icon": "ios-bookmarks",
       "items": [
         {
-          "title": "React Native基础教程",
-          "url": "https://m.imooc.com/learn/808"
+          "title": "Canvas",
+          "url": "http://yjjtt.top/canvas-demo/index.html"
         },
         {
-          "title": "React Native高级实战教程",
-          "url": "https://coding.m.imooc.com/classindex.html?cid=89"
+          "title": "BookMarks",
+          "url": "http://yjjtt.top/myBookmarks/index.html"
+        },
+        {
+            "title": "简书",
+            "url": "https://yjjtt.top/jianshu/"
+        },
+        {
+            "title": "kt-backstage",
+            "url": "http://yjjtt.top/kt-backstage/"
         }
       ]
     },
@@ -77,14 +85,14 @@
   "author": {
     "name": "YjjTT",
     "description": "对自己狠点!",
-    "avatar": "http://avatar.csdn.net/1/1/E/1_fengyuzhengfan.jpg",
+    "avatar": "https://github.com/YjjTT/ImageFile/raw/master/img/20190417165635.png",
     "backgroundImg": "http://www.devio.org/io/GitHubPopular/img/for_githubpopular_about_me.jpg",
-    "url": "http://www.devio.org/"
+    "url": "https://www.yjjtt.top"
   },
   "app": {
     "name": "GitHub Popular",
     "description": "这是一个用来查看GitHub最受欢迎与最热项目的App,它基于React Native支持Android和iOS双平台。",
-    "avatar": "http://www.devio.org/io/GitHubPopular/img/ic_app.png",
+    "avatar": "https://github.com/YjjTT/ImageFile/raw/master/img/20190417165635.png",
     "backgroundImg": "http://www.devio.org/io/GitHubPopular/img/for_githubpopular_about_me.jpg"
   }
 }
